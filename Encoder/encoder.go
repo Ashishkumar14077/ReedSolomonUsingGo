@@ -1,0 +1,5 @@
+package encode
+
+func Encode(){
+	
+}
